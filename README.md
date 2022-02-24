@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyperionCSharp. I'm 21 years old from the United States with 7 years of programming and hacking expirence. During my last year of elementary school I got a scholarship from khan academy for 5,000$ to go to camps and to use for learning more.
+- 👋 Hi, I’m @HyperionCSharp. I'm 18 years old from the United States with 7 years of programming and hacking expirence. During my last year of elementary school I got a scholarship from khan academy for 5,000$ to go to camps and to use for learning more.
 - 👀 I can code in -> C++, C, HTML, GoLang, Rust, C#, Python, Javascript, Assembly, Koltin, Java and more to learn....
 - 🌱 I’m currently learning Swift, and Machine Learning/AI behaviors and the program behind them.
 - 💞️ I’m looking to collaborate on all open sourced projects for maintaining and beta testing new versions! I did this with microsoft and VSCode not long ago... Very Fun!!!!
