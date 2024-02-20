@@ -2,7 +2,9 @@
 - 👀 I can code in -> C++, C, HTML, GoLang, Rust, C#, Python, Javascript, Assembly, Koltin, Java and more to learn....
 - 🌱 I’m currently learning Swift, and Machine Learning/AI behaviors and the program behind them.
 - 💞️ I’m looking to collaborate on all open sourced projects for maintaining and beta testing new versions! I did this with microsoft and VSCode not long ago... Very Fun!!!!
-- 📫 How to reach me: please email me at ca29754@gmail.com or daniellogger010@gmail.com for buissness or collabarations email me at ca29754@gmail.com
+- 📫 How to reach me: please email me at ca29754@gmail.com I will be active now so email me some problems.
+
+- Let me know what you would want to see coming up. I didnt have a lot of time to code but now I do!!
 
 <!---
 HyperionCSharp/HyperionCSharp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
